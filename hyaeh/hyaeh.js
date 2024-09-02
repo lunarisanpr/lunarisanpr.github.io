@@ -9,7 +9,7 @@ let count = 0;
 // idle
 let idle = document.createElement("video");
 let idleReady = false;
-idle.src = "./hyaeh idle.mp4";
+idle.src = "./hyaeh_idle.mp4";
 idle.loop = true;
 idle.muted = true;
 idle.preload = "metadata";
