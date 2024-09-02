@@ -1,2 +1,19 @@
-# lunarisanpr.github.io
-This is where I put my random keyboard smashes
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hyaeh</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="hyaeh" />
+        <meta name="keywords" content="hyaeh" />
+        <meta name="author" content="lunasa2307" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="layout.css" />
+    </head>
+    <body>
+        <div id="loading">If this message doesn't disappear, something's broken. (damn it)</div>
+        
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+        <script src="hyaeh.js"></script>
+    </body>
+</html>
